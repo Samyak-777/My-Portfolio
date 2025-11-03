@@ -119,11 +119,10 @@ function initTypingEffect() {
     if (!typingText) return;
     
     const phrases = [
-        'AI/ML Engineer',
-        'Hackathon Winner',
-        'Full-Stack Developer',
+        'AI/ML ',
+        'Enthusiastic Coder',
         'Problem Solver',
-        'Open Source Contributor'
+        'Loves to try new Tech'
     ];
     
     let phraseIndex = 0;
