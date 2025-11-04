@@ -10,11 +10,14 @@ A modern, minimalist portfolio website showcasing my projects, skills, and exper
 ---
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop](https://github.com/user-attachments/assets/05eb29b2-4cbc-4112-8635-d2ca0be63bbd)
+### Desktop View 
+![Desktop (Light theme)](https://github.com/user-attachments/assets/05eb29b2-4cbc-4112-8635-d2ca0be63bbd)
+![Desktop (Dark theme)](https://github.com/user-attachments/assets/d458e36c-5ef2-44db-9237-79721352a1bb)
 
 ### Mobile View
-![Mobile](https://github.com/user-attachments/assets/b17d2aa2-031a-4105-a3fb-5295f37d9d29)
+![Mobile (Light theme)](https://github.com/user-attachments/assets/b17d2aa2-031a-4105-a3fb-5295f37d9d29)
+![Mobile (Dark theme)](https://github.com/user-attachments/assets/c8d00aac-382f-497c-8e1f-85e2f72eb648)
+
 
 ## ✨ Features
 
