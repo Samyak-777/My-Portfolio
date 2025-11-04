@@ -2,12 +2,19 @@
 
 A modern, minimalist portfolio website showcasing my projects, skills, and experience in AI/ML and software development.
 
-🌐 **Live Demo:** [samyak-777.github.io](https://samyak-777.github.io)
+🌐 **Live Demo:** [samyak-777.github.io](https://samyak-777.github.io/My-Portfolio/)
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 ---
+## 📸 Screenshots
+
+### Desktop View
+![Desktop](https://github.com/user-attachments/assets/05eb29b2-4cbc-4112-8635-d2ca0be63bbd)
+
+### Mobile View
+![Mobile](https://github.com/user-attachments/assets/b17d2aa2-031a-4105-a3fb-5295f37d9d29)
 
 ## ✨ Features
 
@@ -95,10 +102,3 @@ Edit CSS variables in `style.css`:
 ⭐ **Star this repo if you found it helpful!**
 
 Made with 💙 by Samyak Borkar
-## 📸 Screenshots
-
-### Desktop View
-![Desktop](screenshots/desktop.png)
-
-### Mobile View
-![Mobile](screenshots/mobile.png)
